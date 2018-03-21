@@ -1,0 +1,1 @@
+# rallymind-legal-template-example
