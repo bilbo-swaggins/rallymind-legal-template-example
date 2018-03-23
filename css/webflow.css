@@ -1497,6 +1497,7 @@ textarea.w-select {
 .w-nav-menu {
   position: relative;
   float: right;
+  clear: right;
 }
 .w--nav-menu-open {
   display: block !important;
